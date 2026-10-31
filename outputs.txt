@@ -1,0 +1,6 @@
+=== openai/gpt-4o-mini ===
+An API key is a unique identifier used to authenticate a user or application when accessing an API (Application Programming Interface). It helps ensure that only authorized requests are allowed, enabling service providers to monitor usage and prevent abuse.
+
+=== meta-llama/llama-3.3-70b-instruct ===
+An API key is a unique string of characters that grants access to a specific application programming interface (API), allowing developers to interact with a particular service or system in a secure and controlled manner. By providing a unique identifier, an API key enables the API to authenticate and authorize incoming requests, ensuring that only authorized applications and users can access the service's data and functionality.
+
